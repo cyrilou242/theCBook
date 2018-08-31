@@ -17,5 +17,8 @@ Exercise 1.2: [exercise1.2.c](exercise1.2.c)
 Exercises 1.3, 1.4 and 1.5: [exercise1.345.c](exercise1.345.c)  
 
 ## Chapter 2: Variables and Arithmetic
-WIP
+Exercises 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9: [exercise2.123456789.md](exercise2.123456789.md)  
+Implementation of Example 2.2 for Exercises 2.10+: [exercise2.10.c](exercise2.10.c)  
+Exercises 2.10, 2.11, 2.12, 2.13, 2.14: [exercise2.1011121314.md](exercise2.1011121314.md)  
+  
 
