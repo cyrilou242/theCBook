@@ -8,7 +8,7 @@ All implementations are made on my own without any other documentation and for s
 I try to code considering the state of knowledge available at the point of the book where the exercise is given.  
 Feel free to propose better solutions if they are low level, C idiomatic, or with better performance (for arithmetic or computer related reasons).
 
-This is a side project as I don't code in C and don't plan to. 
+This is a side project to get a better understanding of the underlying implementation of C.
 My local repository may be several commits ahead the github repository.
 
 ## Chapter 1: An introduction to C
